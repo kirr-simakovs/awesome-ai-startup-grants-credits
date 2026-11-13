@@ -1,0 +1,853 @@
+[
+  {
+    "id": "gcp-startups-ai",
+    "name": "Google for Startups Cloud Program (AI Scale Tier)",
+    "provider": "Google Cloud",
+    "value_usd": 350000,
+    "value_label": "Up to $350,000 (2 Years)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–5 Business Days",
+    "requirements": "Corporate domain website, Google Cloud Organization + Billing Account, partner/accelerator or VC backing (Start Tier up to $2k–$20k requires no VC).",
+    "tip": "Pair with NVIDIA Inception membership to unlock the AI Scale tier ($200k Year 1 + $150k Year 2 covering Vertex AI, Gemini, Claude Partner Models, and GKE).",
+    "url": "https://cloud.google.com/startup"
+  },
+  {
+    "id": "microsoft-founders-hub",
+    "name": "Microsoft for Startups Founders Hub",
+    "provider": "Microsoft Azure",
+    "value_usd": 150000,
+    "value_label": "Up to $150,000 Azure + OpenAI",
+    "category": "cloud_gpu",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "1–3 Business Days",
+    "requirements": "LinkedIn profile, live product or prototype URL, B2B/B2C software product roadmap (no funding required for initial $1k–$25k tiers).",
+    "tip": "Start at Stage 1 ($1,000–$5,000) pre-incorporation with just a LinkedIn check, then submit incorporation docs + pitch video to unlock $25k–$150k Azure OpenAI & GPU credits.",
+    "url": "https://foundershub.startups.microsoft.com"
+  },
+  {
+    "id": "cloudflare-for-startups",
+    "name": "Cloudflare for Startups (Enterprise + Workers AI)",
+    "provider": "Cloudflare",
+    "value_usd": 250000,
+    "value_label": "Up to $250,000 (4 Tiers)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "Domain active on Cloudflare DNS/Pages, software-based product, <$50M raised.",
+    "tip": "Covers Workers AI serverless GPU inference, R2 zero-egress object storage, D1 SQLite, Vectorize, and Enterprise Zero-Trust WAF across 3 domains.",
+    "url": "https://www.cloudflare.com/forstartups/"
+  },
+  {
+    "id": "aws-activate",
+    "name": "AWS Activate (Founders & Portfolio)",
+    "provider": "Amazon Web Services",
+    "value_usd": 100000,
+    "value_label": "$1,000 (Founders) to $100,000 (Portfolio)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–7 Business Days",
+    "requirements": "AWS account, company website, and either self-funded status ($1k Founders tier) or an Activate Provider Organization ID ($10k–$100k Portfolio tier).",
+    "tip": "Credits apply to Amazon Bedrock (Claude, Llama, Nova), EC2 GPU instances (P5/G6), S3, and RDS. Join NVIDIA Inception or Stripe Atlas to get a Portfolio Org ID.",
+    "url": "https://aws.amazon.com/activate/"
+  },
+  {
+    "id": "nvidia-inception",
+    "name": "NVIDIA Inception Program for AI Startups",
+    "provider": "NVIDIA",
+    "value_usd": 100000,
+    "value_label": "Up to $100k DGX/Brev + Partner Fast-Track",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "deeptech",
+      "devtools",
+      "saas"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "AI/ML core technology, live website, corporate email, English pitch deck PDF (<10 Years old).",
+    "tip": "Free membership with zero equity. Acts as the #1 partner multiplier to unlock higher tiers in Google Cloud ($350k), AWS Activate ($25k–$100k), and preferred GPU pricing.",
+    "url": "https://www.nvidia.com/en-us/startups/"
+  },
+  {
+    "id": "digitalocean-hatch",
+    "name": "DigitalOcean Hatch Startup Program",
+    "provider": "DigitalOcean",
+    "value_usd": 100000,
+    "value_label": "Up to $100,000 (12 Months)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–7 Business Days",
+    "requirements": "Company website, corporate email, and accelerator/VC or partner affiliation (self-serve tiers start at $1,000–$10,000).",
+    "tip": "Valid for GPU Droplets (H100/MI300X), Managed Kubernetes (DOKS), Managed Databases, and Spaces CDN.",
+    "url": "https://www.digitalocean.com/hatch"
+  },
+  {
+    "id": "ovhcloud-startup",
+    "name": "OVHcloud Startup Program (Showcase & Scale)",
+    "provider": "OVHcloud",
+    "value_usd": 100000,
+    "value_label": "€10,000 (Start) to €100,000 (Scale)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech"
+    ],
+    "regions": [
+      "global",
+      "eu",
+      "us",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "Innovative software/AI startup, live site, no VC required for €10,000 Start tier.",
+    "tip": "Includes dedicated engineering solution architect hours and sovereign EU GDPR-compliant bare-metal + H100/L40S GPU cloud instances.",
+    "url": "https://startup.ovhcloud.com/"
+  },
+  {
+    "id": "oracle-for-startups",
+    "name": "Oracle for Startups (OCI Cloud & GPU Cluster)",
+    "provider": "Oracle Cloud (OCI)",
+    "value_usd": 50000,
+    "value_label": "$500 Instant + up to $50,000 + 70% Discount",
+    "category": "cloud_gpu",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "deeptech",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–5 Business Days",
+    "requirements": "B2B/B2C product or prototype; open to both bootstrapped and funded companies globally.",
+    "tip": "Provides a 70% discount on OCI compute/storage for 2 years plus high-density RDMA A100/H100 GPU cluster allocations.",
+    "url": "https://www.oracle.com/startup/"
+  },
+  {
+    "id": "ibm-startup-program",
+    "name": "IBM Startup Program (IBM Cloud & watsonx)",
+    "provider": "IBM Cloud",
+    "value_usd": 120000,
+    "value_label": "Up to $120,000 ($10k/mo for 12 Months)",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "deeptech",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "Privately held startup <5 years old with a live corporate domain.",
+    "tip": "Covers bare-metal servers, Red Hat OpenShift, watsonx enterprise AI governance, and IBM Quantum composer access.",
+    "url": "https://www.ibm.com/startups"
+  },
+  {
+    "id": "vultr-cloud-alliance",
+    "name": "Vultr Cloud Alliance for Startups",
+    "provider": "Vultr",
+    "value_usd": 25000,
+    "value_label": "$300 Pilot to $25,000+ GPU & Bare Metal",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–5 Business Days",
+    "requirements": "Company domain, verified billing account, high-growth AI or cloud workload.",
+    "tip": "Covers 32 global edge locations, NVIDIA HGX H100/B200 clusters, and AMD Instinct MI300X instances with zero long-term lock-in.",
+    "url": "https://www.vultr.com/company/startups/"
+  },
+  {
+    "id": "scaleway-startup-program",
+    "name": "Scaleway Growth Stage Startup Program",
+    "provider": "Scaleway (Iliad Group)",
+    "value_usd": 38000,
+    "value_label": "Up to €36,000 (~$38,000) EU AI Cloud",
+    "category": "cloud_gpu",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech"
+    ],
+    "regions": [
+      "eu",
+      "global"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "Early-stage or growth startup building cloud-native or AI products; Early Stage tier starts at €1,800 with zero funding required.",
+    "tip": "Europe's largest sovereign AI supercomputer host (H100 PCIe/SXM, L40S, Apple Silicon Mac mini M2/M4 CI nodes in Paris/Amsterdam/Warsaw).",
+    "url": "https://www.scaleway.com/en/startup-program/"
+  },
+  {
+    "id": "anthropic-startup-program",
+    "name": "Anthropic Claude Startup Program (Partner & VC Track)",
+    "provider": "Anthropic",
+    "value_usd": 25000,
+    "value_label": "$1,000 to $25,000 Claude API Credits",
+    "category": "llm_api",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "devtools",
+      "saas",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–14 Business Days",
+    "requirements": "Building with Claude API (Sonnet/Haiku/Opus), corporate domain, partner accelerator/VC referral or Menlovc Anthology Fund track.",
+    "tip": "You can also consume Claude models directly using Google Cloud ($350k Vertex AI Model Garden) or AWS Activate ($100k Amazon Bedrock) credits!",
+    "url": "https://www.anthropic.com/startups"
+  },
+  {
+    "id": "openai-startup-credits",
+    "name": "OpenAI Startup API Credits (via Microsoft / Partner Accelerators)",
+    "provider": "OpenAI",
+    "value_usd": 25000,
+    "value_label": "$2,500 Direct API + $150k Azure OpenAI",
+    "category": "llm_api",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "devtools",
+      "saas",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–7 Business Days",
+    "requirements": "Enrollment in Microsoft Founders Hub or partner accelerator (YC, Techstars, Sequoia, Stripe Atlas).",
+    "tip": "Microsoft Founders Hub grants immediate $2,500 direct api.openai.com credits in addition to up to $150,000 in Azure OpenAI Service quota.",
+    "url": "https://foundershub.startups.microsoft.com"
+  },
+  {
+    "id": "elevenlabs-grants",
+    "name": "ElevenLabs AI Startup Grants",
+    "provider": "ElevenLabs",
+    "value_usd": 4000,
+    "value_label": "33M Characters (~$4,000+ Value, 12 Months)",
+    "category": "llm_api",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "5–10 Business Days",
+    "requirements": "Team <25 employees, concrete voice/conversational AI integration plan.",
+    "tip": "Includes full Enterprise-grade low-latency Conversational AI Agents, voice cloning, and dubbing API for 12 months.",
+    "url": "https://elevenlabs.io/grants"
+  },
+  {
+    "id": "perplexity-sonar-pro-perks",
+    "name": "Perplexity Enterprise & Sonar API Startup Perks",
+    "provider": "Perplexity AI",
+    "value_usd": 5000,
+    "value_label": "$5,000 Sonar API + Enterprise Pro Seats",
+    "category": "llm_api",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–7 Business Days",
+    "requirements": "Available via Stripe Atlas, Mercury, Brex, or AWS Activate Marketplace Perks.",
+    "tip": "Powers real-time grounded web search, citations, and Deep Research (`sonar-deep-research`) inside autonomous B2B agents.",
+    "url": "https://www.perplexity.ai/hub"
+  },
+  {
+    "id": "deepseek-fireworks-together",
+    "name": "Fireworks AI & Together AI Startup Inference Credits",
+    "provider": "Fireworks AI / Together AI",
+    "value_usd": 10000,
+    "value_label": "$1,000 to $10,000 Open-Weights Inference",
+    "category": "llm_api",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "devtools",
+      "saas"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–5 Business Days",
+    "requirements": "Production LLM routing or fine-tuning workload; apply with corporate email.",
+    "tip": "Ideal for low-latency DeepSeek, Qwen, Llama, and custom LoRA adapter serving with speculative decoding.",
+    "url": "https://fireworks.ai"
+  },
+  {
+    "id": "github-for-startups",
+    "name": "GitHub for Startups (Enterprise + Actions + Security)",
+    "provider": "GitHub",
+    "value_usd": 5000,
+    "value_label": "20 Seats GitHub Enterprise Free (Year 1)",
+    "category": "devtools_db",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–5 Business Days",
+    "requirements": "Early-stage startup (up to Series A) that has not previously been on paid GitHub Enterprise.",
+    "tip": "Provides 20 seats of GitHub Enterprise (100% off Year 1, 50% off Year 2) + 50,000 GitHub Actions CI/CD minutes/month.",
+    "url": "https://github.com/enterprise/startups"
+  },
+  {
+    "id": "mongodb-for-startups",
+    "name": "MongoDB for Startups (Atlas Vector Search + Voyage AI)",
+    "provider": "MongoDB",
+    "value_usd": 5000,
+    "value_label": "$500 to $5,000 Atlas Cloud + Embeddings",
+    "category": "devtools_db",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–5 Business Days",
+    "requirements": "Software/AI startup <7 years old, Series A or earlier, live website.",
+    "tip": "Includes MongoDB Atlas credits, Voyage AI embedding token credits, and 1-on-1 schema & vector index consultation.",
+    "url": "https://www.mongodb.com/startups"
+  },
+  {
+    "id": "posthog-for-startups",
+    "name": "PostHog for Startups (Product Analytics, Replay & LLM Observability)",
+    "provider": "PostHog",
+    "value_usd": 50000,
+    "value_label": "$50,000 Credits (12 Months)",
+    "category": "devtools_db",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "1–2 Business Days",
+    "requirements": "Company <2 years old and <$5M raised (bootstrapped companies qualify immediately).",
+    "tip": "Covers Product Analytics, Session Replay, Feature Flags, A/B Experiments, and LLM trace observability in one platform.",
+    "url": "https://posthog.com/startups"
+  },
+  {
+    "id": "datadog-for-startups",
+    "name": "Datadog for Startups (Pro Infrastructure & APM)",
+    "provider": "Datadog",
+    "value_usd": 100000,
+    "value_label": "Up to $100,000 (12 Months Free)",
+    "category": "devtools_db",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "3–7 Business Days",
+    "requirements": "New Datadog customer, <$10M funding raised, partner/VC or ecosystem referral.",
+    "tip": "Full APM, Kubernetes monitoring, Log Management, and LLM Observability free for Year 1.",
+    "url": "https://www.datadoghq.com/partner/datadog-for-startups/"
+  },
+  {
+    "id": "notion-for-startups",
+    "name": "Notion for Startups (Plus Plan + Unlimited Notion AI)",
+    "provider": "Notion",
+    "value_usd": 12000,
+    "value_label": "Up to $12,000 (6 Months Free + AI)",
+    "category": "devtools_db",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "1–3 Business Days",
+    "requirements": "<100 employees, non-paying Notion workspace, corporate email domain.",
+    "tip": "Use a partner code (AWS Activate, Microsoft Founders Hub, Stripe Atlas, or GitHub) for 6 months vs 3 months standard.",
+    "url": "https://www.notion.so/startups"
+  },
+  {
+    "id": "sentry-retainer-startups",
+    "name": "Sentry for Startups (Error & Performance Monitoring)",
+    "provider": "Sentry",
+    "value_usd": 5000,
+    "value_label": "$5,000 Business Plan Credits",
+    "category": "devtools_db",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "1–3 Business Days",
+    "requirements": "Early-stage startup building web, mobile, desktop, or AI agent software.",
+    "tip": "Combine with GitHub for Startups or YC/Founder Hub perks for 12 months of Business tier crash & trace diagnostics.",
+    "url": "https://sentry.io/for/startups/"
+  },
+  {
+    "id": "supabase-neon-pinecone",
+    "name": "Supabase, Neon & Pinecone AI Vector DB Startup Credits",
+    "provider": "Supabase / Neon / Pinecone",
+    "value_usd": 10000,
+    "value_label": "$300–$10,000 Serverless Postgres & Vector DB",
+    "category": "devtools_db",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "1–3 Business Days",
+    "requirements": "Available via GitHub Student/Startup Pack, Cloudflare for Startups, and AWS Activate Perks.",
+    "tip": "Covers pgvector, serverless branching Postgres, Auth, and Edge Functions with zero idle database costs.",
+    "url": "https://supabase.com/partners/integrations"
+  },
+  {
+    "id": "stripe-fee-free-credits",
+    "name": "Stripe Fee-Free Payment Processing Credits",
+    "provider": "Stripe",
+    "value_usd": 5000,
+    "value_label": "$20k–$150k Fee-Free Volume (~$600–$5,000 Saved)",
+    "category": "ads_growth",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "us",
+      "eu",
+      "global"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "Instant via Partner Perks",
+    "requirements": "Active Stripe account; claimable inside Microsoft Founders Hub, AWS Activate Perks, or Stripe Atlas.",
+    "tip": "Waives the 2.9% + $0.30 Stripe processing fee on your first $20,000 to $150,000 in customer checkout volume.",
+    "url": "https://stripe.com/atlas"
+  },
+  {
+    "id": "google-linkedin-reddit-x-ads",
+    "name": "B2B Acquisition Ad Grants (Google Ads, LinkedIn, Reddit & X Ads)",
+    "provider": "Google / LinkedIn / Reddit / X",
+    "value_usd": 6000,
+    "value_label": "$6,000+ Combined Ad Match Bonuses",
+    "category": "ads_growth",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "Instant upon First Ad Spend",
+    "requirements": "New advertiser account per platform with verified business billing.",
+    "tip": "Includes Google Ads ($500–$1,500 match), Microsoft Advertising ($3,000 via Founders Hub), Reddit Ads ($500 for DevTools), and X/LinkedIn B2B coupons.",
+    "url": "https://ads.google.com"
+  },
+  {
+    "id": "hubspot-intercom-startups",
+    "name": "Intercom Early Stage (90% Off Fin AI) & HubSpot for Startups",
+    "provider": "Intercom / HubSpot",
+    "value_usd": 15000,
+    "value_label": "90% Off Year 1 (~$15,000 CRM & AI Support Value)",
+    "category": "ads_growth",
+    "stages": [
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "global",
+      "us",
+      "eu",
+      "apac_mena_latam"
+    ],
+    "equity": "0% (Non-Dilutive)",
+    "speed": "2–4 Business Days",
+    "requirements": "<5 employees and <$1M funding for Intercom Early Stage ($65/mo flat); partner referral for HubSpot 90% off.",
+    "tip": "Intercom Early Stage includes Fin AI support agent responses and product tours at 90% off for Year 1.",
+    "url": "https://www.intercom.com/early-stage"
+  },
+  {
+    "id": "nlnet-ngi-zero-grants",
+    "name": "NLnet Foundation / NGI Zero Commons Fund (Open Source & Privacy AI)",
+    "provider": "NLnet / European Commission NGI",
+    "value_usd": 54000,
+    "value_label": "€5,000 to €50,000 (~$54,000) Cash Grant",
+    "category": "grants_accel",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed"
+    ],
+    "niches": [
+      "ai",
+      "devtools",
+      "deeptech"
+    ],
+    "regions": [
+      "eu",
+      "global"
+    ],
+    "equity": "0% (Pure R&D Cash Grant)",
+    "speed": "6–8 Weeks (Rolling Calls)",
+    "requirements": "Open-source software, decentralized protocols, E2EE security, or verifiable local AI infrastructure.",
+    "tip": "Open to individual engineers and companies worldwide provided the funded module is released under an OSI-approved open-source license.",
+    "url": "https://nlnet.nl/commonsfund/"
+  },
+  {
+    "id": "astana-hub-it-park-equity-free",
+    "name": "Astana Hub (Silkway Accelerator / AI Movement) & IT Park Tax/Cloud Perks",
+    "provider": "Astana Hub / Google for Startups Central Eurasia",
+    "value_usd": 65000,
+    "value_label": "0% Corporate/Income Tax + $25k–$65k Cloud & Residency",
+    "category": "grants_accel",
+    "stages": [
+      "idea",
+      "bootstrapped",
+      "seed",
+      "series_a"
+    ],
+    "niches": [
+      "ai",
+      "saas",
+      "devtools",
+      "deeptech",
+      "fintech",
+      "ecommerce"
+    ],
+    "regions": [
+      "apac_mena_latam",
+      "global"
+    ],
+    "equity": "0% (Tax Exemption + Non-Dilutive Perks)",
+    "speed": "2–4 Weeks",
+    "requirements": "Software/AI export-oriented product; remote incorporation available for international founders.",
+    "tip": "Combines 0% CIT/PIT/VAT on software exports with direct Google for Startups Silkway Accelerator fast-track and regional GPU grants.",
+    "url": "https://astanahub.com/en/"
+  }
+]

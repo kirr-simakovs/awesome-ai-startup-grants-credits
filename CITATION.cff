@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or playbook, please cite it as below."
+authors:
+  - family-names: "Simakovs"
+    given-names: "Kirr"
+    orcid: "https://www.linkedin.com/in/kirr-simakovs-364a69190/"
+title: "Awesome AI Startup Grants, Cloud Credits & GPU Perks (2026 Edition)"
+version: 1.0.0
+date-released: 2026-11-08
+url: "https://github.com/kirr-simakovs/awesome-ai-startup-grants-credits"
